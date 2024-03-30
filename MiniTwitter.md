@@ -58,7 +58,7 @@ Here's an outline of the requirements for building the "MiniTwitter" application
 
 ### 6. Databases:
 - Design database structures in a diagram
-- Use PostgreSQL as the relational database for storing user data, tweets, likes, follows, etc.
+- Use any database that as convenient for retrieving and storing user data, tweets, likes, follows, etc.
 - Utilize database indexes for efficient querying.
 - Ensure proper database migrations for schema changes.
 
